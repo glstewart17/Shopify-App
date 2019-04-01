@@ -1,7 +1,12 @@
 # Shopify Store Analytics
 
+My pesonal contributions:
+* Did all of the work for UI and UX
+* Wrote scripts for data analysis
+* Assisted with Shopify API and integration
+
 This project was created by:
-* Gabriel Stewart -Software Engineer
+* Gabriel Stewart - Software Engineer
 * Joshua Yan - Software Engineer
 * Stanley Kwok - Software Engineer
 * Louden Maclay - Software Engineer
